@@ -2,7 +2,7 @@ import { useState } from "react"
 import Education from "./Education"
 import GenInfo from "./Information"
 import WorkEx from "./WorkEx"
-import Projects from "./projects"
+import Projects from "./Projects"
 import PdfDownloadComponent from "./Download"
 export default function CV_Content(){
 
